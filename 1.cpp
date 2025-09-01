@@ -32,4 +32,5 @@ int main()
             v1.erase(it);
         }
     }
+    cout << "\n";
 }
